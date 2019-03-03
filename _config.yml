@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: iLiKE
 deploy:
      type: git
      repo: git@github.com:zhaozengbing/zhaozengbing.github.io.git
